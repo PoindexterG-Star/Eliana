@@ -1,8 +1,7 @@
 
 body {
-    background-color: rgba(54, 58, 114, 0.932);
     background: linear-gradient(10deg,  #fbfd85, #48f3f3, #ff7070);
- 
+    margin: 0px;
 }
 h1 {
     text-align: center;
